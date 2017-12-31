@@ -1,5 +1,5 @@
 # A-Regular-Day
-C# Scripts used in the Unity game A Regular Day
+Scripts C# usados en el juego de Unity A Regular Day
 
 Nota: para ver cómo funcionan los puzzles, ver el script "RecogerAnkh.cs", 
 dentro de la carpeta "puzzles_piramide". Todos los scripts de los puzzles 
